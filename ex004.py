@@ -1,0 +1,5 @@
+piru = input('Sorta o verbo pa nóis: ')
+print(type(piru))
+print(piru.isalpha())
+print(piru.isnumeric())
+print(piru.isalnum())
